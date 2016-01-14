@@ -160,6 +160,7 @@
     <Content Include="enigmas.xml">
       <SubType>Designer</SubType>
     </Content>
+    <None Include="Resources\Cible.png" />
     <None Include="image\Cross.png" />
     <None Include="image\Circle.png" />
     <Content Include="img\imageA.PNG" />

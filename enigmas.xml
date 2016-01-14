@@ -84,4 +84,13 @@
     <answer>J'ai gagné</answer>
     <hint>Gagner au moins deux fois contre l'ordinateur.</hint>
   </enigma>
+  <enigma title="Tir à l'arc">
+    <answer>Bien loué</answer>
+    <hint>Obtenez au moins 20 points en 3 coups.
+    Jaune = 10
+    Rouge = 5
+    Bleu = 4
+    Noir = 2
+    Gris = 1</hint>
+  </enigma>
 </enigmas>

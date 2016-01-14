@@ -17,8 +17,8 @@ namespace Cpln.Enigmos
         /// <returns>L'énigme à afficher</returns>
         public static Enigma DebugEnigma()
         {
-            //return null;
-            return new Enigma(new TirArcEnigmaPanel(), "Tir à l'arc");
+            return null;
+            //return new Enigma(new TirArcEnigmaPanel(), "Tir à l'arc");
         }
 
         /// <summary>
