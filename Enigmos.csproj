@@ -112,6 +112,9 @@
     <Compile Include="Enigma.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Enigmas\TirArcEnigmaPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Enigmos.cs">
       <SubType>Form</SubType>
     </Compile>
